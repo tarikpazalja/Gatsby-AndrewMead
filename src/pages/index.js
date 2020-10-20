@@ -10,12 +10,10 @@ export const IndexPage = () => {
       <Head title='Home' />
       <h1>Helllooooo</h1>
       <h2>
-        ldsfkfk;dsfk;l;l;lkfsd;lskdfldsl;slfk;lsdkflsdlfkl;sfk;lsdklfksdl;iiuyiyuiuyi
+        Sta ima sta se radi, dobar ovaj gatsby
       </h2>
 
-      <p>
-        treba ti developer <Link to="/contact">Contact Me</Link>
-      </p>
+      
     </Layout>
   )
 }
